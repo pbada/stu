@@ -1,5 +1,6 @@
 # UI Framwork
 AWS, MongoDB, React, Node, Express, GIT을 통한 서버리스 App 빌드
+
 목적 - 
 
 운영 URLS(s) : http://13.209.67.61/
@@ -27,3 +28,8 @@ $ npm i -g create-react-app #리엑트 환경 모듈(Babel, Web-Pack)
 * **pbada** - Contents(Mock Data)
     * clint - 프론트 개발(UI 프레임워크 - React)
     * backend - 백엔드 개발 (MongoDB)
+
+
+
+* 운영 - repo: AWS | DB: MongoDB(real===dev) | backend: modify | 
+* 개발 - repo: 개인 PC | DB : MongoDB(real===dev) | backend: read |
