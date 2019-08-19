@@ -8,10 +8,11 @@ ebay Web Publisher의 자격요건 및 우대사항의 충족을위한 어플리
 
 ## FrontEnd 구성
 [Node.js](https://nodejs.org/)와 
-[React](https://reactjs.org/) 리액트 라이브러리를 이용하여 JSX문법을 사용하여 HTML을 그려주며, CSS는 [Sass(SCSS)](https://sass-lang.com/) 전처리 도구를 이용합니다.
+[React](https://reactjs.org/) 리액트 라이브러리를 이용하고 JSX문법을 사용하여 HTML을 그려주며, CSS는 [Sass(SCSS)](https://sass-lang.com/) 전처리 도구를 이용합니다.
+자바스크립트는(ES6)를 [Babel](https://www.npmjs.com/package/@babel/core)사용 하여 트랜스파일링 합니다.
 
 ## BackEnd 구성
-[mgdbAtlas](https://www.mongodb.com/cloud/atlas를 사용하여 스키마 및 간단한 데이터 Update, Modify, Delete, Remove 처리를 합니다.
+[mgdb atlas](https://www.mongodb.com/cloud/atlas)를 사용하여 스키마 및 간단한 데이터 Update, Modify, Delete, Remove 처리를 합니다.
 
 ## 사용 방법
 
